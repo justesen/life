@@ -8,9 +8,7 @@ Note that you need to have the Java Development Kit (JDK) installed (not
 just the runtime (JRE).
 
 Compile with
-
 `$ javac life/*`
-
 and then run the program with
 
 `$ java life/Main`
