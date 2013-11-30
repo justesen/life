@@ -8,8 +8,11 @@ Note that you need to have the Java Development Kit (JDK) installed (not
 just the runtime (JRE).
 
 Compile with
+
 `$ javac life/*`
+
 and then run the program with
+
 `$ java life/Main`
 
 
@@ -25,12 +28,11 @@ and then run the program with
 
 3) Bugs
 -------
-Please forward any bugs you find to me at
-> `mathias.justesen@gmail.com`
+Please forward any bugs you find to me at `mathias.justesen@gmail.com` or make
+a pull request.
 
 
 4) License and copyright information
 ------------------------
 This software is licensed under the MIT License, see LICENSE for more
-information
-  
+information.
