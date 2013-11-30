@@ -1,4 +1,4 @@
-Conway's Game of Life - a cellular generator and solver
+Conway's Game of Life - a cellular automaton
 
 
 1) INSTALLATION
@@ -18,8 +18,8 @@ Conway's Game of Life - a cellular generator and solver
     Toggle draw mode with SPACE.
     Zoom in and out with the mouse wheel.
     When in draw mode:
-        Make a cell come to life by left-clicking on it with the mouse
-        Kill a cell by right-clicking on it
+      - Make a cell come to life by left-clicking on it with the mouse
+      - Kill a cell by right-clicking on it
 
 
 3) BUGS
@@ -31,4 +31,4 @@ Conway's Game of Life - a cellular generator and solver
 4) LICENSE AND COPYRIGHT
 
    This software is licensed under the MIT License, see LICENSE for more
-   information
+   information  
