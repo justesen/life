@@ -22,8 +22,8 @@ and then run the program with
 - Toggle draw mode with SPACE.
 - Zoom in and out with the mouse wheel.
 - When in draw mode:
-  - Make a cell come to life by left-clicking on it with the mouse
-  - Kill a cell by right-clicking on it
+  - Make a cell come to life by left-clicking on it with the mouse.
+  - Kill a cell by right-clicking on it.
 
 
 3) Bugs
