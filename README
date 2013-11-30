@@ -12,6 +12,16 @@ Conway's Game of Life - a cellular generator and solver
       java life/Main
 
 
+2) CONTROLS
+
+    Pause and unpause with the PAUSE/BREAK button.
+    Toggle draw mode with SPACE.
+    Zoom in and out with the mouse wheel.
+    When in draw mode:
+        Make a cell come to life by left-clicking on it with the mouse
+        Kill a cell by right-clicking on it
+
+
 3) BUGS
 
    Please forward any bugs you find to me at
